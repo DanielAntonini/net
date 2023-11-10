@@ -1,3 +1,4 @@
+using Example.Infrastructure.Configuration;
 using Examples.Api.Middlewares;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
@@ -12,6 +13,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+var configurationManager = builder.Configuration;
+
+// Read AppSettings
+var configuration = configurationManager.GetSection("Configuration").Get<Configuration>();
+var configurationValue = configurationManager.GetValue<int>("Configuration:Value");
 
 // Services
 builder.Services.AddTransient<ExceptionHandlerMiddleware>();
