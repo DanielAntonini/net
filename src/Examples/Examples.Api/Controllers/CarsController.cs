@@ -1,6 +1,9 @@
+using System.Collections.Generic;
+using System.Linq;
 using Example.Core.Exceptions;
 using Example.Core.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 
 namespace Examples.Api.Controllers;
 

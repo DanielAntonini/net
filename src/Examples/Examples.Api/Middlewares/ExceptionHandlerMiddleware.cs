@@ -1,5 +1,8 @@
+using System;
 using System.Net;
+using System.Threading.Tasks;
 using Example.Core.Exceptions;
+using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
 
 namespace Examples.Api.Middlewares;
