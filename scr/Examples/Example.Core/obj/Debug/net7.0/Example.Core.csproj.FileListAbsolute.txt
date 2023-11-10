@@ -1,0 +1,12 @@
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/bin/Debug/net7.0/Example.Core.deps.json
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/bin/Debug/net7.0/Example.Core.dll
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/bin/Debug/net7.0/Example.Core.pdb
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/obj/Debug/net7.0/Example.Core.csproj.AssemblyReference.cache
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/obj/Debug/net7.0/Example.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/obj/Debug/net7.0/Example.Core.AssemblyInfoInputs.cache
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/obj/Debug/net7.0/Example.Core.AssemblyInfo.cs
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/obj/Debug/net7.0/Example.Core.csproj.CoreCompileInputs.cache
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/obj/Debug/net7.0/Example.Core.dll
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/obj/Debug/net7.0/refint/Example.Core.dll
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/obj/Debug/net7.0/Example.Core.pdb
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/obj/Debug/net7.0/ref/Example.Core.dll

@@ -1,0 +1,5 @@
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/obj/Debug/netcoreapp3.1/Example.Core.csproj.AssemblyReference.cache
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/obj/Debug/netcoreapp3.1/Example.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/obj/Debug/netcoreapp3.1/Example.Core.AssemblyInfoInputs.cache
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/obj/Debug/netcoreapp3.1/Example.Core.AssemblyInfo.cs
+/Users/daniel/Documents/projects/github/net/scr/Examples/Example.Core/obj/Debug/netcoreapp3.1/Example.Core.csproj.CoreCompileInputs.cache
